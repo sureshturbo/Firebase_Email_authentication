@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908021737957",
+    "project_id": "fb-email-auth-ff76c",
+    "storage_bucket": "fb-email-auth-ff76c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908021737957:android:4026f19158d56d09b8270c",
+        "android_client_info": {
+          "package_name": "com.example.fb_email_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908021737957-9vire2qrpn7au4lavqh8jvr18ahtke06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvjgFVcXvQ15F5igousQA7NUOm-sV3H8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908021737957-9vire2qrpn7au4lavqh8jvr18ahtke06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
